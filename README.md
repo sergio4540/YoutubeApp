@@ -1,4 +1,5 @@
 # YoutubeApp
+![image](https://user-images.githubusercontent.com/36976589/152431067-bf671c80-055e-4de5-95d3-c40ce44ad1ea.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
